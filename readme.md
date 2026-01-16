@@ -14,9 +14,13 @@ Kairo Studio is a web application that allows users to generate short-form anime
 The system takes a prompt, splits it into scenes, and generates multiple six-second shots using Grok text-to-video and image-to-video pipelines. Individual clips are sequenced, transitioned, and combined into seamless scenes. The platform currently supports:
 
 • Multiple art styles
+
 • Up to 60 seconds of total video output
+
 • Real-time progress indicators
+
 • Serverless deployment
+
 • Fully client-driven UI with backend orchestration
 
 The goal is to make high-quality animated storytelling accessible to anyone, without editing tools or animation skills.
